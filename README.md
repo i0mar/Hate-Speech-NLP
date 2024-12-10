@@ -1,0 +1,4 @@
+# Egybest NLP Model
+-  Egybest is the hate speech detection model me and Youssef built using some of the coolest advancements in AI and natural language processing. It’s designed to tackle how hate speech can show up in all kinds of sneaky ways on social media—whether it’s sarcasm, coded language, or just outright offensive content. We used LSTMs to make sure the model doesn’t just look at words individually but actually understands their context. With attention mechanisms and word embeddings, it focuses on the most important parts of the text to flag hate speech accurately. It’s like giving social media platforms a smart filter that learns and adapts as language evolves.
+
+-  You can download a pretrained version of the model from [here.](https://mailmissouri-my.sharepoint.com/:u:/g/personal/oma6fk_umsystem_edu/EdFvt5wbIqhIggUNNPMBPM0BQ4eTw4f4khPuw5i0pdWnsg?e=AiseCZ)
